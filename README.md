@@ -40,3 +40,8 @@ Histograms can provide insights into latency, request durations, and other metri
 Example: Measuring the response times of API requests and calculating percentiles (e.g., 95th percentile response time).
 
 ## Install Prometheus on your local host
+
+![Pro1 install](https://github.com/mohabalinassar/Prometheus-Init/assets/29493773/a25b4136-f921-4d7f-89c0-53d27dc9d22b)
+![pro 2 targets ](https://github.com/mohabalinassar/Prometheus-Init/assets/29493773/b9a36816-bbe4-45b3-855f-c1e167a817be)
+
+
